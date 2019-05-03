@@ -10,6 +10,8 @@ The challenge here is to construct a `SparseMatrix` class in python (or, if you 
 
 There are many corner-cases to consider, so be cautious here!
 
+You should plan on spending between one and two hours here.
+
 #### Bonus
 There are the beginnings of a unit test at the end of the included python file.  If you want to test how robust your code is, fill this section out and try running it.  If all was successful, you should see something like the following:
 
