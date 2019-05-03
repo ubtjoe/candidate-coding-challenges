@@ -7,4 +7,4 @@ Your task is to read in the data in python (or, if you prefer, your language of 
 
 You should plan on spending between one-half and one hour on this challenge.
 
-If you have the time or desire, provide either code comments or a separate text file that discussed your observation regarding how the data is clustered.  Are there any interesting trends?
+If you have the time or desire, provide either code comments or a separate text file that discusses your observations regarding how the data is clustered.  Are there any interesting trends?
