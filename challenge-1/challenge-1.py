@@ -1,7 +1,3 @@
-'''
-CHALLENGE 1 INSTRUCTIONS:
-read in a file and make a 2d scatterplot of the data.  DO NOT MODIFY challenge-1.txt!  Your approach should properly handle any exceptions.
-'''
 # FEEL FREE TO ADD/MODIFY THE IMPORTS - keep in mind you will need to plot the data
 import matplotlib.pyplot as plt
 
